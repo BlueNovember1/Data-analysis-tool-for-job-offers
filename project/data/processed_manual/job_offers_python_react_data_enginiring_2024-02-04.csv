@@ -1,0 +1,126 @@
+file_name;position_name;company;job_information;salary_low;salary_high;currency;location;salary_avg;is_senior;is_lead;is_mid;is_junior
+data enginer;Senior PHP Developer;emagine Sp. Z o.o.;backend;23520,00;26880,00;PLN;Zdalnie;25200,00;1;0;0;0
+data enginer;Senior Fullstack Developer (Kotlin/Java + Angular);Euvic S.A.;fullstack;16800,00;25200,00;PLN;Zdalnie;21000,00;1;0;0;0
+data enginer;Market Risk Senior Analyst;emagine Sp. Z o.o.;business-analyst;21840,00;25200,00;PLN;Zdalnie;23520,00;1;0;0;0
+data enginer;Kierownik ZespoÅ‚u Call Center;JOBNONSTOP.PL;customer-service;8000,00;10000,00;PLN;Warszawa;9000,00;0;0;0;0
+data enginer;Windows Platform Engineer;Motorola Solutions Systems Polska;sys-administrator;10000,00;17000,00;PLN;Kraków;13500,00;0;0;0;0
+data enginer;UX Designer;Bamboo Health Sp. z o.o.;ux;13000,00;17200,00;PLN;Zdalnie;15100,00;0;0;0;0
+data enginer;BPM Developer;emagine Sp. Z o.o.;business-analyst;21000,00;24360,00;PLN;Warszawa;22680,00;0;0;0;0
+Programista Python;Senior Backend Developer (Python);CTHINGS.CO;Backend;22000,00;27000,00;PLN;Warszawa;24500,00;1;0;0;0
+Programista Python;Senior Backend Developer (Python);Fintastic;Backend;27748,00;35676,00;PLN;Zdalnie;31712,00;1;0;0;0
+Programista Python;Python Developer Tech Lead / Architect;cyber_Folks S.A.;Backend;19500,00;24500,00;PLN;Kraków;22000,00;0;1;0;0
+Programista Python;Backend Python Developer;xBerry;Backend;20160,00;25200,00;PLN;Zdalnie;22680,00;0;0;0;0
+Programista Python;Medior FullStack (Python) Developer;NIX Tech Kft.;Fullstack;9010,00;13515,00;PLN;Budapest;11262,50;0;0;0;0
+Programista Python;Senior Python Developer;Lingaro;Backend;21000,00;26880,00;PLN;Zdalnie;23940,00;1;0;0;0
+Programista Python;Backend / Python Developer (Junior);Parleto;Backend;5000,00;10000,00;PLN;Gdañsk;7500,00;0;0;0;1
+Programista Python;Senior Backend Developer;Focal Systems;Backend;37000,00;70000,00;PLN;Zdalnie;53500,00;1;0;0;0
+Programista Python;Senior Python Developer;Avenga;Backend;27720,00;29400,00;PLN;Zdalnie;28560,00;1;0;0;0
+Programista Python;Full Stack Python Developer;Akademia GÃ³rniczo-Hutnicza im. StanisÅ‚awa Staszica w Krakowie;Fullstack;11000,00;15000,00;PLN;Kraków;13000,00;0;0;0;0
+Programista Python;Remote Backend Python Django Developer;HRobots;Backend;10000,00;11400,00;PLN;Zdalnie;10700,00;0;0;0;0
+Programista Python;Remote Python Developer;SQ3 Partners;Backend;17838,00;20613,00;PLN;Zdalnie;19225,50;0;0;0;0
+Programista Python;Python Developer;Margo Consulting Polska;Backend;15000,00;20000,00;PLN;Zdalnie;17500,00;0;0;0;0
+Programista Python;Python Developer;Respect Energy S.A.;Backend;18000,00;25000,00;PLN;Zdalnie;21500,00;0;0;0;0
+Programista Python;Remote Python Senior developer;Meant4 Software;Backend;18000,00;25000,00;PLN;Zdalnie;21500,00;1;0;0;0
+Programista Python;Python Backend Developer;ALM Services Technology Group;Backend;16000,00;28000,00;PLN;Zdalnie;22000,00;0;0;0;0
+Programista Python;Mid (Python) Backend Developer (AI/Web3 startup);Codepole;Backend;15000,00;25000,00;PLN;Zdalnie;20000,00;0;0;1;0
+Programista Python;Mid Backend Developer (Python);Quantee;Backend;18000,00;22000,00;PLN;Zdalnie;20000,00;0;0;1;0
+Programista Python;Senior Backend Developer (Python);Quantee;Backend;25000,00;30000,00;PLN;Zdalnie;27500,00;1;0;0;0
+Programista Python;Junior Python Developer (Backend);Elmark Automatyka S.A.;Backend;7000,00;10000,00;PLN;Warszawa;8500,00;0;0;0;1
+Programista Python;BigData Developer;AVENGA;data;20160,00;23520,00;PLN;Zdalnie;21840,00;0;0;0;0
+Programista Python;Data Developer;Unit Group;data;21802,00;29730,00;PLN;Zdalnie;25766,00;0;0;0;0
+Programista Python;Python Developer - AI;Zone IT Sp. z o.o.;artificial-intelligence;17000,00;28000,00;PLN;Wroc³aw;22500,00;0;0;0;0
+Programista Python;Big Data Developer;emagine Sp. Z o.o.;data;18480,00;23520,00;PLN;Warszawa;21000,00;0;0;0;0
+Programista Python;3D Rigging Artist / Technical Developer;Codete;game-dev;26880,00;31080,00;PLN;Zdalnie;28980,00;0;0;0;0
+Programista Python;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586,00;24176,00;PLN;Prague;22881,00;0;0;1;0
+Programista Python;Software Developer C++ / Linux / Buildroot;Recruit Europe Sp.zo.o.;embedded;28000,00;41000,00;PLN;Munich;34500,00;0;0;0;0
+Programista Python;Programista DWH;apreel Sp. z o.o.;data;23520,00;30240,00;PLN;Zdalnie;26880,00;0;0;0;0
+Programista Python;Power Platform Developer;Avanade Poland;business-analyst;13440,00;26880,00;PLN;Zdalnie;20160,00;0;0;0;0
+Programista Python;Developer Patterns;Mindbox S.A.;devops;27300,00;32550,00;PLN;Zdalnie;29925,00;0;0;0;0
+Programista Python;C++ Embedded Developer;Link Group;embedded;16800,00;25200,00;PLN;Warszawa;21000,00;0;0;0;0
+Programista Python;Fullstack Python/React Developer;Grape Up;fullstack;16000,00;22100,00;PLN;Zdalnie;19050,00;0;0;0;0
+Programista Python;Fullstack Developer;Link Group;fullstack;22000,00;26000,00;PLN;Warszawa;24000,00;0;0;0;0
+Programista Python;Frontend Developer (Mid / Regular);Sunscrapers;frontend;15000,00;22000,00;PLN;Zdalnie;18500,00;0;0;1;0
+Programista Python;C++ Developer - TGMT;Siemens Mobility Kft.;backend;9010,00;13515,00;PLN;Budapest;11262,50;0;0;0;0
+Programista Python;Senior C#/.NET Developer;First Derivative;backend;28560,00;36960,00;PLN;£ódŸ;32760,00;1;0;0;0
+Programista Python;Remote Java Team Lead Developer;Coforge;fullstack;31920,00;35280,00;PLN;Zdalnie;33600,00;0;1;0;0
+Programista Python;Programista PLC/SCADA;ARA PrzedsiÄ™biorstwo Automatyki PrzemysÅ‚owej Sp. z o.o.;automation;7000,00;12000,00;PLN;Eldbl¹g;9500,00;0;0;0;0
+Programista Python;RPA Developer;Mindbox S.A.;automation;23100,00;33600,00;PLN;Warszawa;28350,00;0;0;0;0
+Programista Python;InÅ¼ynier Automatyk / Programista PLC;Talent Partners;automation;13000,00;15000,00;PLN;Gliwice;14000,00;0;0;0;0
+Programista Python;Python Developer - AI;Zone IT Sp. z o.o.;AI;17000,00;28000,00;PLN;Wroc³aw;22500,00;0;0;0;0
+Programista Python;3D Rigging Artist / Technical Developer;Codete;Game dev;26880,00;31080,00;PLN;Zdalnie;28980,00;0;0;0;0
+Programista Python;Mid React Native Developer (Relocation to Prague);AllSTARSIT;AI;21586,00;24176,00;PLN;Prague;22881,00;0;0;1;0
+Programista Python;Power Platform Developer;Avanade Poland;Business Analysis;13440,00;26880,00;PLN;Zdalnie;20160,00;0;0;0;0
+Programista Python;Programista PLC/SCADA;ARA PrzedsiÄ™biorstwo Automatyki PrzemysÅ‚owej Sp. z o.o.;Automatyka;7000,00;12000,00;PLN;Eldbl¹g;9500,00;0;0;0;0
+Programista Python;RPA Developer;Mindbox S.A.;Automatyka;23100,00;33600,00;PLN;Warszawa;28350,00;0;0;0;0
+Programista Python;InÅ¼ynier Automatyk / Programista PLC;Talent Partners;Automatyka;13000,00;15000,00;PLN;Gliwice;14000,00;0;0;0;0
+Programista Python;Senior Linux Embedded Developer;Minimax Viking R&D;embedded;22000,00;26000,00;PLN;Kraków;24000,00;1;0;0;0
+Programista Python;Computer Vision Algorithm Developer (AI);Unit Group;artificial-intelligence;23784,00;31712,00;PLN;Zdalnie;27748,00;0;0;0;0
+Programista Python;Backend Developer (Elixir);in4ge sp. z o.o.;game-dev;16000,00;22000,00;PLN;Zdalnie;19000,00;0;0;0;0
+Programista Python;Remote Odoo developer;Fortizar Kft.;fullstack;7568,00;11353,00;PLN;Zdalnie;9460,50;0;0;0;0
+Programista Python;Data Developer Analytics;bonprix.;business-intelligence;15200,00;19800,00;PLN;£ódŸ;17500,00;0;0;0;0
+Programista Python;API Integrations / Backend Developer;Akademia GÃ³rniczo-Hutnicza im. StanisÅ‚awa Staszica w Krakowie;backend;5000,00;8000,00;PLN;Kraków;6500,00;0;0;0;0
+Programista Python;(Beyond a) Senior React Developer;u2i;frontend;22000,00;27000,00;PLN;Kraków;24500,00;1;0;0;0
+Programista Python;Junior RTB Integration Engineer/Java Developer;RTB House;backend;16000,00;21000,00;PLN;Zdalnie;18500,00;0;0;0;1
+Programista Python;Linux Developer;Hitachi Energy;sys-administrator;15000,00;20000,00;PLN;Kraków;17500,00;0;0;0;0
+Programista Python;Cloud Application Developer;Sigma IT Poland;architecture;21840,00;26880,00;PLN;Zdalnie;24360,00;0;0;0;0
+Programista Python;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;artificial-intelligence;17000,00;20000,00;PLN;Zdalnie;18500,00;0;0;0;0
+Programista Python;.Net Developer;Hitachi Energy;backend;15000,00;18000,00;PLN;Zdalnie;16500,00;0;0;0;0
+Programista Python;Junior Database SQL Developer;DataFuze;data;8400,00;12000,00;PLN;Warszawa;10200,00;0;0;0;1
+Programista Python;C++ Developer - flight simulator;Flytronic S.A.;embedded;20000,00;30000,00;PLN;Gliwice;25000,00;0;0;0;0
+Programista Python;Programista C/Linux (systemy wbudowane);Transbit Sp. z o.o.;embedded;12000,00;17000,00;PLN;Warszawa;14500,00;0;0;0;0
+Programista Python;Remote Senior Embedded Developer;Conclusive Engineering Sp. z o.o.;embedded;20000,00;30000,00;PLN;Zdalnie;25000,00;1;0;0;0
+Programista Python;Node.js Developer;AVENGA;fullstack;21840,00;25200,00;PLN;Zdalnie;23520,00;0;0;0;0
+Programista Python;Mulesoft Developer (part-time);Finitec;backend;18480,00;23520,00;PLN;Zdalnie;21000,00;0;0;0;0
+Programista Python;Embedded Software Developer;AIUT;embedded;10200,00;14400,00;PLN;Gliwice;12300,00;0;0;0;0
+Programista Python;Remote Frontend Developer;SQ3 Partners;frontend;13874,00;19820,00;PLN;Zdalnie;16847,00;0;0;0;0
+Programista Python;Computer Vision Algorithm Developer (AI);Unit Group;AI;23784,00;31712,00;PLN;Zdalnie;27748,00;0;0;0;0
+Programista Python;Backend Developer (Elixir);in4ge sp. z o.o.;Game dev;16000,00;22000,00;PLN;Zdalnie;19000,00;0;0;0;0
+Programista Python;Data Developer Analytics;bonprix.;Business Intelligence;15200,00;19800,00;PLN;£ódŸ;17500,00;0;0;0;0
+Programista Python;Linux Developer;Hitachi Energy;Sys. Administrator;15000,00;20000,00;PLN;Kraków;17500,00;0;0;0;0
+Programista Python;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;AI;17000,00;20000,00;PLN;Zdalnie;18500,00;0;0;0;0
+Programista Python;Remote Senior Frontend Developer;SQ3 Partners;frontend;19820,00;25766,00;PLN;Zdalnie;22793,00;1;0;0;0
+Programista Python;Fullstack Developer;AVENGA;fullstack;20160,00;21840,00;PLN;Zdalnie;21000,00;0;0;0;0
+Programista Python;IoT Senior Software Developer (C#/.Net);Hitachi Energy;testing;16000,00;19000,00;PLN;Kraków;17500,00;1;0;0;0
+Programista Python;R/Python Developer;Centrum Informatyki Statystycznej;backend;8000,00;14000,00;PLN;Warszawa;11000,00;0;0;0;0
+Programista Python;Lead Robotics Developer;SoftServe;robotics;19000,00;28000,00;PLN;Zdalnie;23500,00;0;1;0;0
+Programista Python;Programista systemu drona podwodnego;Diveye;robotics;10080,00;20160,00;PLN;Zdalnie;15120,00;0;0;0;0
+Programista Python;AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;artificial-intelligence;12000,00;16000,00;PLN;Zdalnie;14000,00;0;0;0;0
+Programista Python;Senior AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;artificial-intelligence;16000,00;19000,00;PLN;Zdalnie;17500,00;1;0;0;0
+Programista Python;Remote Full-stack JavaScript Developer;ALGOTEQUE;fullstack;16000,00;25600,00;PLN;Zdalnie;20800,00;0;0;0;0
+Programista Python;Game Developer (Elixir / Unity);in4ge sp. z o.o.;game-dev;16000,00;24000,00;PLN;Zdalnie;20000,00;0;0;0;0
+Programista Python;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;backend;17000,00;20000,00;PLN;Zdalnie;18500,00;0;0;0;0
+Programista Python;Senior C++ Backened Developer;ESET;backend;18000,00;21000,00;PLN;Kraków;19500,00;1;0;0;0
+Programista Python;Junior Embedded Software Developer;AIUT;embedded;6250,00;9900,00;PLN;Gliwice;8075,00;0;0;0;1
+Programista Python;Junior Backend Developer;Storkjet Sp. z o.o.;backend;6700,00;9600,00;PLN;Katowice;8150,00;0;0;0;1
+Programista Python;Cloud DevOps Engineer;emagine Sp. Z o.o.;devops;23520,00;26880,00;PLN;Zdalnie;25200,00;0;0;0;0
+Programista Python;Lead Robotics Developer;SoftServe;Robotyka;19000,00;28000,00;PLN;Zdalnie;23500,00;0;1;0;0
+Programista Python;Programista systemu drona podwodnego;Diveye;Robotyka;10080,00;20160,00;PLN;Zdalnie;15120,00;0;0;0;0
+Programista Python;AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;AI;12000,00;16000,00;PLN;Zdalnie;14000,00;0;0;0;0
+Programista Python;Senior AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;AI;16000,00;19000,00;PLN;Zdalnie;17500,00;1;0;0;0
+Programista Python;Game Developer (Elixir / Unity);in4ge sp. z o.o.;Game dev;16000,00;24000,00;PLN;Zdalnie;20000,00;0;0;0;0
+react native;Remote React Fullstack Developer;ITISIT sp z o.o.;Fullstack;13440,00;25200,00;PLN;Zdalnie;19320,00;0;0;0;0
+react native;Mid React Native Developer (Relocation to Prague);AllSTARSIT;AI;21586,00;24176,00;PLN;Prague;22881,00;0;0;1;0
+react native;React Native Developer - Remote/WrocÅ‚aw;Sofomo;Mobile;20000,00;23000,00;PLN;Zdalnie;21500,00;0;0;0;0
+react native;Senior React Native Developer;Branchspace sp. z o.o.;Mobile;18000,00;26000,00;PLN;Kraków;22000,00;1;0;0;0
+react native;React Native Developer;Connectis_;Mobile;25000,00;30000,00;PLN;Warszawa;27500,00;0;0;0;0
+react native;React Native Developer;Le Polish Bureau;Frontend;14000,00;20000,00;PLN;Zdalnie;17000,00;0;0;0;0
+react native;Junior React Native Developer;NIX Tech Kft.;Mobile;5068,00;9573,00;PLN;Budapest;7320,50;0;0;0;1
+react native;React Developer Gaming Solutions;Zone IT Sp. z o.o.;Game dev;12000,00;20000,00;PLN;Wroc³aw;16000,00;0;0;0;0
+react native;React Native;Lethe.co;Mobile;13000,00;20000,00;PLN;Zdalnie;16500,00;0;0;0;0
+react native;Senior React Native Developer Remote;Superdevs;Mobile;25200,00;30240,00;PLN;Zdalnie;27720,00;1;0;0;0
+react native;Senior Fullstack React Native/PHP Developer;Developers Shore;Fullstack;19978,00;26638,00;PLN;Zdalnie;23308,00;1;0;0;0
+react native;React Native Engineer (+Node);Daytrip;Mobile;31732,00;45331,00;PLN;Zdalnie;38531,50;0;0;0;0
+react native;React Native SDK Team Lead (NL or remote in EU);Stream;Mobile;25184,00;43173,00;PLN;Zdalnie;34178,50;0;1;0;0
+react native;Programista / Programistka Aplikacji  Mobilnych;NMG Innovative Technologies;Mobile;7500,00;15000,00;PLN;Toruñ;11250,00;0;0;0;0
+react native;Mid PHP Developer (100% REMOTE);Innovation Software;Backend;10000,00;15000,00;PLN;Zdalnie;12500,00;0;0;1;0
+react native;Fullstack Developer(Python+React);Avenga;Fullstack;20160,00;23520,00;PLN;Zdalnie;21840,00;0;0;0;0
+react native;Senior Mobile Engineer;ALLSTARSIT;Mobile;27748,00;31712,00;PLN;Warszawa;29730,00;1;0;0;0
+react native;Senior Software Engineer (Mobile App iOS Android);Adtran Networks Sp. zo. o.;Mobile;17000,00;22000,00;PLN;Zdalnie;19500,00;1;0;0;0
+react native;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586,00;24176,00;PLN;Prague;22881,00;0;0;1;0
+react native;React Developer Gaming Solutions;Zone IT Sp. z o.o.;game-dev;12000,00;20000,00;PLN;Wroc³aw;16000,00;0;0;0;0
+react native;Junior Software Engineer (Mobile App iOS Android);Adtran Networks Sp. zo. o.;mobile;11000,00;14000,00;PLN;Zdalnie;12500,00;0;0;0;1
+react native;Software Architect;NOVOMATIC Technologies Poland;architecture;24000,00;35000,00;PLN;Zabierzów;29500,00;0;0;0;0
+react native;Senior Fullstack JavaScript developer;Digital Thinkers Kft.;fullstack;10136,00;16894,00;PLN;Budapest;13515,00;1;0;0;0
+react native;Senior/Lead iOS Developer (with German);Spyrosoft;mobile;25200,00;33600,00;PLN;Zdalnie;29400,00;1;1;0;0
+react native;Cloud Software Engineer;ESET;devops;13000,00;16000,00;PLN;Kraków;14500,00;0;0;0;0
+react native;Junior PHP Developer (100% REMOTE);Innovation Software;backend;7000,00;9000,00;PLN;Zdalnie;8000,00;0;0;0;1

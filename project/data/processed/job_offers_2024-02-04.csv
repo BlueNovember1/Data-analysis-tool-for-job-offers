@@ -1,0 +1,487 @@
+file_name;position_name;company;job_information;salary_low;salary_high;currency;location;salary_avg;is_senior;is_lead;is_mid;is_junior
+data enginer_1;Senior PHP Developer;emagine Sp. Z o.o.;backend;23520.0;26880.0;PLN;Zdalnie;25200.0;1;0;0;0
+data enginer_1;Senior Fullstack Developer (Kotlin/Java + Angular);Euvic S.A.;fullstack;16800.0;25200.0;PLN;Zdalnie;21000.0;1;0;0;0
+data enginer_1;Kierownik Łańcucha Dostaw;Abalone Poland Sp. z o.o;logistics;;;PLN;Nisko;;0;0;0;0
+data enginer_1;Market Risk Senior Analyst;emagine Sp. Z o.o.;business-analyst;21840.0;25200.0;PLN;Zdalnie;23520.0;1;0;0;0
+data enginer_1;Kierownik Zespołu Call Center;JOBNONSTOP.PL;customer-service;8000.0;10000.0;PLN;Warszawa;9000.0;0;0;0;0
+data enginer_1;Windows Platform Engineer;Motorola Solutions Systems Polska;sys-administrator;10000.0;17000.0;PLN;Kraków;13500.0;0;0;0;0
+data enginer_1;UX Designer;Bamboo Health Sp. z o.o.;ux;13000.0;17200.0;PLN;Zdalnie;15100.0;0;0;0;0
+data enginer_1;BPM Developer;emagine Sp. Z o.o.;business-analyst;21000.0;24360.0;PLN;Warsaw;22680.0;0;0;0;0
+Programista Python_1;Senior Backend Developer (Python);CTHINGS.CO;Backend;22000.0;27000.0;PLN;Warsaw;24500.0;1;0;0;0
+Programista Python_1;Senior Backend Developer (Python);Fintastic;Backend;27748.0;35676.0;PLN;Zdalnie;31712.0;1;0;0;0
+Programista Python_1;Python Developer Tech Lead / Architect;cyber_Folks S.A.;Backend;19500.0;24500.0;PLN;Kraków;22000.0;0;1;0;0
+Programista Python_1;Backend Python Developer;xBerry;Backend;20160.0;25200.0;PLN;Zdalnie;22680.0;0;0;0;0
+Programista Python_1;Medior FullStack (Python) Developer;NIX Tech Kft.;Fullstack;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_1;Senior Python Developer;Lingaro;Backend;21000.0;26880.0;PLN;Zdalnie;23940.0;1;0;0;0
+Programista Python_1;Backend / Python Developer (Junior);Parleto;Backend;5000.0;10000.0;PLN;Gdańsk;7500.0;0;0;0;1
+Programista Python_1;Senior Backend Developer;Focal Systems;Backend;37000.0;70000.0;PLN;Zdalnie;53500.0;1;0;0;0
+Programista Python_1;Senior Python Developer;Avenga;Backend;27720.0;29400.0;PLN;Zdalnie;28560.0;1;0;0;0
+Programista Python_1;Full Stack Python Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;Fullstack;11000.0;15000.0;PLN;Kraków;13000.0;0;0;0;0
+Programista Python_1;Remote Backend Python Django Developer;HRobots;Backend;10000.0;11400.0;PLN;Zdalnie;10700.0;0;0;0;0
+Programista Python_1;Remote Python Developer;SQ3 Partners;Backend;17838.0;20613.0;PLN;Zdalnie;19225.5;0;0;0;0
+Programista Python_1;Python Developer;Margo Consulting Polska;Backend;15000.0;20000.0;PLN;Zdalnie;17500.0;0;0;0;0
+Programista Python_1;Python Developer;Respect Energy S.A.;Backend;18000.0;25000.0;PLN;Zdalnie;21500.0;0;0;0;0
+Programista Python_1;Remote Python Senior developer;Meant4 Software;Backend;18000.0;25000.0;PLN;Zdalnie;21500.0;1;0;0;0
+Programista Python_1;Python Backend Developer;ALM Services Technology Group;Backend;16000.0;28000.0;PLN;Zdalnie;22000.0;0;0;0;0
+Programista Python_1;Mid (Python) Backend Developer (AI/Web3 startup);Codepole;Backend;15000.0;25000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_1;Mid Backend Developer (Python);Quantee;Backend;18000.0;22000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_1;Senior Backend Developer (Python);Quantee;Backend;25000.0;30000.0;PLN;Zdalnie;27500.0;1;0;0;0
+Programista Python_1;Junior Python Developer (Backend);Elmark Automatyka S.A.;Backend;7000.0;10000.0;PLN;Warszawa;8500.0;0;0;0;1
+Programista Python_2;Senior Backend Developer (Python);CTHINGS.CO;backend;22000.0;27000.0;PLN;Warsaw;24500.0;1;0;0;0
+Programista Python_2;Senior Backend Developer (Python);Fintastic;backend;27748.0;35676.0;PLN;Zdalnie;31712.0;1;0;0;0
+Programista Python_2;Python Developer Tech Lead / Architect;cyber_Folks S.A.;backend;19500.0;24500.0;PLN;Kraków;22000.0;0;1;0;0
+Programista Python_2;Backend Python Developer;xBerry;backend;20160.0;25200.0;PLN;Zdalnie;22680.0;0;0;0;0
+Programista Python_2;Medior FullStack (Python) Developer;NIX Tech Kft.;fullstack;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_2;Senior Python Developer;Lingaro;backend;21000.0;26880.0;PLN;Zdalnie;23940.0;1;0;0;0
+Programista Python_2;Backend / Python Developer (Junior);Parleto;backend;5000.0;10000.0;PLN;Gdańsk;7500.0;0;0;0;1
+Programista Python_2;Senior Backend Developer;Focal Systems;backend;37000.0;70000.0;PLN;Zdalnie;53500.0;1;0;0;0
+Programista Python_2;Senior Python Developer;Avenga;backend;27720.0;29400.0;PLN;Zdalnie;28560.0;1;0;0;0
+Programista Python_2;Full Stack Python Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;fullstack;11000.0;15000.0;PLN;Kraków;13000.0;0;0;0;0
+Programista Python_2;Remote Backend Python Django Developer;HRobots;backend;10000.0;11400.0;PLN;Zdalnie;10700.0;0;0;0;0
+Programista Python_2;Remote Python Developer;SQ3 Partners;backend;17838.0;20613.0;PLN;Zdalnie;19225.5;0;0;0;0
+Programista Python_2;Python Developer;Margo Consulting Polska;backend;15000.0;20000.0;PLN;Zdalnie;17500.0;0;0;0;0
+Programista Python_2;Python Developer;Respect Energy S.A.;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;0;0;0;0
+Programista Python_2;Remote Python Senior developer;Meant4 Software;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;1;0;0;0
+Programista Python_2;Python Backend Developer;ALM Services Technology Group;backend;16000.0;28000.0;PLN;Zdalnie;22000.0;0;0;0;0
+Programista Python_2;Mid (Python) Backend Developer (AI/Web3 startup);Codepole;backend;15000.0;25000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_2;Mid Backend Developer (Python);Quantee;backend;18000.0;22000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_2;Senior Backend Developer (Python);Quantee;backend;25000.0;30000.0;PLN;Zdalnie;27500.0;1;0;0;0
+Programista Python_2;Junior Python Developer (Backend);Elmark Automatyka S.A.;backend;7000.0;10000.0;PLN;Warszawa;8500.0;0;0;0;1
+Programista Python_2;BigData Developer;AVENGA;data;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+Programista Python_2;Data Developer;Unit Group;data;21802.0;29730.0;PLN;Zdalnie;25766.0;0;0;0;0
+Programista Python_2;Python Developer - AI;Zone IT Sp. z o.o.;artificial-intelligence;17000.0;28000.0;PLN;Wrocław;22500.0;0;0;0;0
+Programista Python_2;Big Data Developer;emagine Sp. Z o.o.;data;18480.0;23520.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_2;3D Rigging Artist / Technical Developer;Codete;game-dev;26880.0;31080.0;PLN;Zdalnie;28980.0;0;0;0;0
+Programista Python_2;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+Programista Python_2;Software Developer C++ / Linux / Buildroot;Recruit Europe Sp.zo.o.;embedded;28000.0;41000.0;PLN;Munich;34500.0;0;0;0;0
+Programista Python_2;Programista DWH;apreel Sp. z o.o.;data;23520.0;30240.0;PLN;Zdalnie;26880.0;0;0;0;0
+Programista Python_2;Power Platform Developer;Avanade Poland;business-analyst;13440.0;26880.0;PLN;Zdalnie;20160.0;0;0;0;0
+Programista Python_2;Developer Patterns;Mindbox S.A.;devops;27300.0;32550.0;PLN;Zdalnie;29925.0;0;0;0;0
+Programista Python_2;C++ Embedded Developer;Link Group;embedded;16800.0;25200.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_2;Fullstack Python/React Developer;Grape Up;fullstack;16000.0;22100.0;PLN;Zdalnie;19050.0;0;0;0;0
+Programista Python_2;Fullstack Developer;Link Group;fullstack;22000.0;26000.0;PLN;Warszawa;24000.0;0;0;0;0
+Programista Python_2;Frontend Developer (Mid / Regular);Sunscrapers;frontend;15000.0;22000.0;PLN;Zdalnie;18500.0;0;0;1;0
+Programista Python_2;C++ Developer - TGMT;Siemens Mobility Kft.;backend;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_2;Senior C#/.NET Developer;First Derivative;backend;28560.0;36960.0;PLN;Łódź;32760.0;1;0;0;0
+Programista Python_2;Remote Java Team Lead Developer;Coforge;fullstack;31920.0;35280.0;PLN;Zdalnie;33600.0;0;1;0;0
+Programista Python_2;Programista PLC/SCADA;ARA Przedsiębiorstwo Automatyki Przemysłowej Sp. z o.o.;automation;7000.0;12000.0;PLN;Elbląg;9500.0;0;0;0;0
+Programista Python_2;RPA Developer;Mindbox S.A.;automation;23100.0;33600.0;PLN;Warszawa;28350.0;0;0;0;0
+Programista Python_2;Inżynier Automatyk / Programista PLC;Talent Partners;automation;13000.0;15000.0;PLN;Gliwice;14000.0;0;0;0;0
+Programista Python_2;BigData Developer;AVENGA;Data;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+Programista Python_2;Data Developer;Unit Group;Data;21802.0;29730.0;PLN;Zdalnie;25766.0;0;0;0;0
+Programista Python_2;Python Developer - AI;Zone IT Sp. z o.o.;AI;17000.0;28000.0;PLN;Wrocław;22500.0;0;0;0;0
+Programista Python_2;Big Data Developer;emagine Sp. Z o.o.;Data;18480.0;23520.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_2;3D Rigging Artist / Technical Developer;Codete;Game dev;26880.0;31080.0;PLN;Zdalnie;28980.0;0;0;0;0
+Programista Python_2;Mid React Native Developer (Relocation to Prague);AllSTARSIT;AI;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+Programista Python_2;Software Developer C++ / Linux / Buildroot;Recruit Europe Sp.zo.o.;Embedded;28000.0;41000.0;PLN;Munich;34500.0;0;0;0;0
+Programista Python_2;Programista DWH;apreel Sp. z o.o.;Data;23520.0;30240.0;PLN;Zdalnie;26880.0;0;0;0;0
+Programista Python_2;Power Platform Developer;Avanade Poland;Business Analysis;13440.0;26880.0;PLN;Zdalnie;20160.0;0;0;0;0
+Programista Python_2;Developer Patterns;Mindbox S.A.;DevOps;27300.0;32550.0;PLN;Zdalnie;29925.0;0;0;0;0
+Programista Python_2;C++ Embedded Developer;Link Group;Embedded;16800.0;25200.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_2;Fullstack Python/React Developer;Grape Up;Fullstack;16000.0;22100.0;PLN;Zdalnie;19050.0;0;0;0;0
+Programista Python_2;Fullstack Developer;Link Group;Fullstack;22000.0;26000.0;PLN;Warszawa;24000.0;0;0;0;0
+Programista Python_2;Frontend Developer (Mid / Regular);Sunscrapers;Frontend;15000.0;22000.0;PLN;Zdalnie;18500.0;0;0;1;0
+Programista Python_2;C++ Developer - TGMT;Siemens Mobility Kft.;Backend;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_2;Senior C#/.NET Developer;First Derivative;Backend;28560.0;36960.0;PLN;Łódź;32760.0;1;0;0;0
+Programista Python_2;Remote Java Team Lead Developer;Coforge;Fullstack;31920.0;35280.0;PLN;Zdalnie;33600.0;0;1;0;0
+Programista Python_2;Programista PLC/SCADA;ARA Przedsiębiorstwo Automatyki Przemysłowej Sp. z o.o.;Automatyka;7000.0;12000.0;PLN;Elbląg;9500.0;0;0;0;0
+Programista Python_2;RPA Developer;Mindbox S.A.;Automatyka;23100.0;33600.0;PLN;Warszawa;28350.0;0;0;0;0
+Programista Python_2;Inżynier Automatyk / Programista PLC;Talent Partners;Automatyka;13000.0;15000.0;PLN;Gliwice;14000.0;0;0;0;0
+Programista Python_3;Senior Backend Developer (Python);CTHINGS.CO;backend;22000.0;27000.0;PLN;Warsaw;24500.0;1;0;0;0
+Programista Python_3;Senior Backend Developer (Python);Fintastic;backend;27748.0;35676.0;PLN;Zdalnie;31712.0;1;0;0;0
+Programista Python_3;Python Developer Tech Lead / Architect;cyber_Folks S.A.;backend;19500.0;24500.0;PLN;Kraków;22000.0;0;1;0;0
+Programista Python_3;Backend Python Developer;xBerry;backend;20160.0;25200.0;PLN;Zdalnie;22680.0;0;0;0;0
+Programista Python_3;Medior FullStack (Python) Developer;NIX Tech Kft.;fullstack;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_3;Senior Python Developer;Lingaro;backend;21000.0;26880.0;PLN;Zdalnie;23940.0;1;0;0;0
+Programista Python_3;Backend / Python Developer (Junior);Parleto;backend;5000.0;10000.0;PLN;Gdańsk;7500.0;0;0;0;1
+Programista Python_3;Senior Backend Developer;Focal Systems;backend;37000.0;70000.0;PLN;Zdalnie;53500.0;1;0;0;0
+Programista Python_3;Senior Python Developer;Avenga;backend;27720.0;29400.0;PLN;Zdalnie;28560.0;1;0;0;0
+Programista Python_3;Full Stack Python Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;fullstack;11000.0;15000.0;PLN;Kraków;13000.0;0;0;0;0
+Programista Python_3;Remote Backend Python Django Developer;HRobots;backend;10000.0;11400.0;PLN;Zdalnie;10700.0;0;0;0;0
+Programista Python_3;Remote Python Developer;SQ3 Partners;backend;17838.0;20613.0;PLN;Zdalnie;19225.5;0;0;0;0
+Programista Python_3;Python Developer;Margo Consulting Polska;backend;15000.0;20000.0;PLN;Zdalnie;17500.0;0;0;0;0
+Programista Python_3;Python Developer;Respect Energy S.A.;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;0;0;0;0
+Programista Python_3;Remote Python Senior developer;Meant4 Software;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;1;0;0;0
+Programista Python_3;Python Backend Developer;ALM Services Technology Group;backend;16000.0;28000.0;PLN;Zdalnie;22000.0;0;0;0;0
+Programista Python_3;Mid (Python) Backend Developer (AI/Web3 startup);Codepole;backend;15000.0;25000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_3;Mid Backend Developer (Python);Quantee;backend;18000.0;22000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_3;Senior Backend Developer (Python);Quantee;backend;25000.0;30000.0;PLN;Zdalnie;27500.0;1;0;0;0
+Programista Python_3;Junior Python Developer (Backend);Elmark Automatyka S.A.;backend;7000.0;10000.0;PLN;Warszawa;8500.0;0;0;0;1
+Programista Python_3;BigData Developer;AVENGA;data;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+Programista Python_3;Data Developer;Unit Group;data;21802.0;29730.0;PLN;Zdalnie;25766.0;0;0;0;0
+Programista Python_3;Python Developer - AI;Zone IT Sp. z o.o.;artificial-intelligence;17000.0;28000.0;PLN;Wrocław;22500.0;0;0;0;0
+Programista Python_3;Big Data Developer;emagine Sp. Z o.o.;data;18480.0;23520.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_3;3D Rigging Artist / Technical Developer;Codete;game-dev;26880.0;31080.0;PLN;Zdalnie;28980.0;0;0;0;0
+Programista Python_3;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+Programista Python_3;Software Developer C++ / Linux / Buildroot;Recruit Europe Sp.zo.o.;embedded;28000.0;41000.0;PLN;Munich;34500.0;0;0;0;0
+Programista Python_3;Programista DWH;apreel Sp. z o.o.;data;23520.0;30240.0;PLN;Zdalnie;26880.0;0;0;0;0
+Programista Python_3;Power Platform Developer;Avanade Poland;business-analyst;13440.0;26880.0;PLN;Zdalnie;20160.0;0;0;0;0
+Programista Python_3;Developer Patterns;Mindbox S.A.;devops;27300.0;32550.0;PLN;Zdalnie;29925.0;0;0;0;0
+Programista Python_3;C++ Embedded Developer;Link Group;embedded;16800.0;25200.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_3;Fullstack Python/React Developer;Grape Up;fullstack;16000.0;22100.0;PLN;Zdalnie;19050.0;0;0;0;0
+Programista Python_3;Fullstack Developer;Link Group;fullstack;22000.0;26000.0;PLN;Warszawa;24000.0;0;0;0;0
+Programista Python_3;Frontend Developer (Mid / Regular);Sunscrapers;frontend;15000.0;22000.0;PLN;Zdalnie;18500.0;0;0;1;0
+Programista Python_3;C++ Developer - TGMT;Siemens Mobility Kft.;backend;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_3;Senior C#/.NET Developer;First Derivative;backend;28560.0;36960.0;PLN;Łódź;32760.0;1;0;0;0
+Programista Python_3;Remote Java Team Lead Developer;Coforge;fullstack;31920.0;35280.0;PLN;Zdalnie;33600.0;0;1;0;0
+Programista Python_3;Programista PLC/SCADA;ARA Przedsiębiorstwo Automatyki Przemysłowej Sp. z o.o.;automation;7000.0;12000.0;PLN;Elbląg;9500.0;0;0;0;0
+Programista Python_3;RPA Developer;Mindbox S.A.;automation;23100.0;33600.0;PLN;Warszawa;28350.0;0;0;0;0
+Programista Python_3;Inżynier Automatyk / Programista PLC;Talent Partners;automation;13000.0;15000.0;PLN;Gliwice;14000.0;0;0;0;0
+Programista Python_3;Senior Linux Embedded Developer;Minimax Viking R&D;embedded;22000.0;26000.0;PLN;Kraków;24000.0;1;0;0;0
+Programista Python_3;Computer Vision Algorithm Developer (AI);Unit Group;artificial-intelligence;23784.0;31712.0;PLN;Zdalnie;27748.0;0;0;0;0
+Programista Python_3;Backend Developer (Elixir);in4ge sp. z o.o.;game-dev;16000.0;22000.0;PLN;Zdalnie;19000.0;0;0;0;0
+Programista Python_3;Remote Odoo developer;Fortizar Kft.;fullstack;7568.0;11353.0;PLN;Zdalnie;9460.5;0;0;0;0
+Programista Python_3;Data Developer Analytics;bonprix.;business-intelligence;15200.0;19800.0;PLN;Łódź;17500.0;0;0;0;0
+Programista Python_3;API Integrations / Backend Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;backend;5000.0;8000.0;PLN;Kraków;6500.0;0;0;0;0
+Programista Python_3;(Beyond a) Senior React Developer;u2i;frontend;22000.0;27000.0;PLN;Kraków;24500.0;1;0;0;0
+Programista Python_3;Junior RTB Integration Engineer/Java Developer;RTB House;backend;16000.0;21000.0;PLN;Zdalnie;18500.0;0;0;0;1
+Programista Python_3;Linux Developer;Hitachi Energy;sys-administrator;15000.0;20000.0;PLN;Kraków;17500.0;0;0;0;0
+Programista Python_3;Cloud Application Developer;Sigma IT Poland;architecture;21840.0;26880.0;PLN;Zdalnie;24360.0;0;0;0;0
+Programista Python_3;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;artificial-intelligence;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_3;.Net Developer;Hitachi Energy;backend;15000.0;18000.0;PLN;Zdalnie;16500.0;0;0;0;0
+Programista Python_3;Junior Database SQL Developer;DataFuze;data;8400.0;12000.0;PLN;Warszawa;10200.0;0;0;0;1
+Programista Python_3;C++ Developer - flight simulator;Flytronic S.A.;embedded;20000.0;30000.0;PLN;Gliwice;25000.0;0;0;0;0
+Programista Python_3;Programista C/Linux (systemy wbudowane);Transbit Sp. z o.o.;embedded;12000.0;17000.0;PLN;Warszawa;14500.0;0;0;0;0
+Programista Python_3;Remote Senior Embedded Developer;Conclusive Engineering Sp. z o.o.;embedded;20000.0;30000.0;PLN;Zdalnie;25000.0;1;0;0;0
+Programista Python_3;Node.js Developer;AVENGA;fullstack;21840.0;25200.0;PLN;Zdalnie;23520.0;0;0;0;0
+Programista Python_3;Mulesoft Developer (part-time);Finitec;backend;18480.0;23520.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_3;Embedded Software Developer;AIUT;embedded;10200.0;14400.0;PLN;Gliwice;12300.0;0;0;0;0
+Programista Python_3;Remote Frontend Developer;SQ3 Partners;frontend;13874.0;19820.0;PLN;Zdalnie;16847.0;0;0;0;0
+Programista Python_3;Senior Linux Embedded Developer;Minimax Viking R&D;Embedded;22000.0;26000.0;PLN;Kraków;24000.0;1;0;0;0
+Programista Python_3;Computer Vision Algorithm Developer (AI);Unit Group;AI;23784.0;31712.0;PLN;Zdalnie;27748.0;0;0;0;0
+Programista Python_3;Backend Developer (Elixir);in4ge sp. z o.o.;Game dev;16000.0;22000.0;PLN;Zdalnie;19000.0;0;0;0;0
+Programista Python_3;Remote Odoo developer;Fortizar Kft.;Fullstack;7568.0;11353.0;PLN;Zdalnie;9460.5;0;0;0;0
+Programista Python_3;Data Developer Analytics;bonprix.;Business Intelligence;15200.0;19800.0;PLN;Łódź;17500.0;0;0;0;0
+Programista Python_3;API Integrations / Backend Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;Backend;5000.0;8000.0;PLN;Kraków;6500.0;0;0;0;0
+Programista Python_3;(Beyond a) Senior React Developer;u2i;Frontend;22000.0;27000.0;PLN;Kraków;24500.0;1;0;0;0
+Programista Python_3;Junior RTB Integration Engineer/Java Developer;RTB House;Backend;16000.0;21000.0;PLN;Zdalnie;18500.0;0;0;0;1
+Programista Python_3;Linux Developer;Hitachi Energy;Sys. Administrator;15000.0;20000.0;PLN;Kraków;17500.0;0;0;0;0
+Programista Python_3;Cloud Application Developer;Sigma IT Poland;Architecture;21840.0;26880.0;PLN;Zdalnie;24360.0;0;0;0;0
+Programista Python_3;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;AI;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_3;.Net Developer;Hitachi Energy;Backend;15000.0;18000.0;PLN;Zdalnie;16500.0;0;0;0;0
+Programista Python_3;Junior Database SQL Developer;DataFuze;Data;8400.0;12000.0;PLN;Warszawa;10200.0;0;0;0;1
+Programista Python_3;C++ Developer - flight simulator;Flytronic S.A.;Embedded;20000.0;30000.0;PLN;Gliwice;25000.0;0;0;0;0
+Programista Python_3;Programista C/Linux (systemy wbudowane);Transbit Sp. z o.o.;Embedded;12000.0;17000.0;PLN;Warszawa;14500.0;0;0;0;0
+Programista Python_3;Remote Senior Embedded Developer;Conclusive Engineering Sp. z o.o.;Embedded;20000.0;30000.0;PLN;Zdalnie;25000.0;1;0;0;0
+Programista Python_3;Node.js Developer;AVENGA;Fullstack;21840.0;25200.0;PLN;Zdalnie;23520.0;0;0;0;0
+Programista Python_3;Mulesoft Developer (part-time);Finitec;Backend;18480.0;23520.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_3;Embedded Software Developer;AIUT;Embedded;10200.0;14400.0;PLN;Gliwice;12300.0;0;0;0;0
+Programista Python_3;Remote Frontend Developer;SQ3 Partners;Frontend;13874.0;19820.0;PLN;Zdalnie;16847.0;0;0;0;0
+Programista Python_4;Senior Backend Developer (Python);CTHINGS.CO;backend;22000.0;27000.0;PLN;Warsaw;24500.0;1;0;0;0
+Programista Python_4;Senior Backend Developer (Python);Fintastic;backend;27748.0;35676.0;PLN;Zdalnie;31712.0;1;0;0;0
+Programista Python_4;Python Developer Tech Lead / Architect;cyber_Folks S.A.;backend;19500.0;24500.0;PLN;Kraków;22000.0;0;1;0;0
+Programista Python_4;Backend Python Developer;xBerry;backend;20160.0;25200.0;PLN;Zdalnie;22680.0;0;0;0;0
+Programista Python_4;Medior FullStack (Python) Developer;NIX Tech Kft.;fullstack;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_4;Senior Python Developer;Lingaro;backend;21000.0;26880.0;PLN;Zdalnie;23940.0;1;0;0;0
+Programista Python_4;Backend / Python Developer (Junior);Parleto;backend;5000.0;10000.0;PLN;Gdańsk;7500.0;0;0;0;1
+Programista Python_4;Senior Backend Developer;Focal Systems;backend;37000.0;70000.0;PLN;Zdalnie;53500.0;1;0;0;0
+Programista Python_4;Senior Python Developer;Avenga;backend;27720.0;29400.0;PLN;Zdalnie;28560.0;1;0;0;0
+Programista Python_4;Full Stack Python Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;fullstack;11000.0;15000.0;PLN;Kraków;13000.0;0;0;0;0
+Programista Python_4;Remote Backend Python Django Developer;HRobots;backend;10000.0;11400.0;PLN;Zdalnie;10700.0;0;0;0;0
+Programista Python_4;Remote Python Developer;SQ3 Partners;backend;17838.0;20613.0;PLN;Zdalnie;19225.5;0;0;0;0
+Programista Python_4;Python Developer;Margo Consulting Polska;backend;15000.0;20000.0;PLN;Zdalnie;17500.0;0;0;0;0
+Programista Python_4;Python Developer;Respect Energy S.A.;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;0;0;0;0
+Programista Python_4;Remote Python Senior developer;Meant4 Software;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;1;0;0;0
+Programista Python_4;Python Backend Developer;ALM Services Technology Group;backend;16000.0;28000.0;PLN;Zdalnie;22000.0;0;0;0;0
+Programista Python_4;Mid (Python) Backend Developer (AI/Web3 startup);Codepole;backend;15000.0;25000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_4;Mid Backend Developer (Python);Quantee;backend;18000.0;22000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_4;Senior Backend Developer (Python);Quantee;backend;25000.0;30000.0;PLN;Zdalnie;27500.0;1;0;0;0
+Programista Python_4;Junior Python Developer (Backend);Elmark Automatyka S.A.;backend;7000.0;10000.0;PLN;Warszawa;8500.0;0;0;0;1
+Programista Python_4;BigData Developer;AVENGA;data;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+Programista Python_4;Data Developer;Unit Group;data;21802.0;29730.0;PLN;Zdalnie;25766.0;0;0;0;0
+Programista Python_4;Python Developer - AI;Zone IT Sp. z o.o.;artificial-intelligence;17000.0;28000.0;PLN;Wrocław;22500.0;0;0;0;0
+Programista Python_4;Big Data Developer;emagine Sp. Z o.o.;data;18480.0;23520.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_4;3D Rigging Artist / Technical Developer;Codete;game-dev;26880.0;31080.0;PLN;Zdalnie;28980.0;0;0;0;0
+Programista Python_4;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+Programista Python_4;Software Developer C++ / Linux / Buildroot;Recruit Europe Sp.zo.o.;embedded;28000.0;41000.0;PLN;Munich;34500.0;0;0;0;0
+Programista Python_4;Programista DWH;apreel Sp. z o.o.;data;23520.0;30240.0;PLN;Zdalnie;26880.0;0;0;0;0
+Programista Python_4;Power Platform Developer;Avanade Poland;business-analyst;13440.0;26880.0;PLN;Zdalnie;20160.0;0;0;0;0
+Programista Python_4;Developer Patterns;Mindbox S.A.;devops;27300.0;32550.0;PLN;Zdalnie;29925.0;0;0;0;0
+Programista Python_4;C++ Embedded Developer;Link Group;embedded;16800.0;25200.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_4;Fullstack Python/React Developer;Grape Up;fullstack;16000.0;22100.0;PLN;Zdalnie;19050.0;0;0;0;0
+Programista Python_4;Fullstack Developer;Link Group;fullstack;22000.0;26000.0;PLN;Warszawa;24000.0;0;0;0;0
+Programista Python_4;Frontend Developer (Mid / Regular);Sunscrapers;frontend;15000.0;22000.0;PLN;Zdalnie;18500.0;0;0;1;0
+Programista Python_4;C++ Developer - TGMT;Siemens Mobility Kft.;backend;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_4;Senior C#/.NET Developer;First Derivative;backend;28560.0;36960.0;PLN;Łódź;32760.0;1;0;0;0
+Programista Python_4;Remote Java Team Lead Developer;Coforge;fullstack;31920.0;35280.0;PLN;Zdalnie;33600.0;0;1;0;0
+Programista Python_4;Programista PLC/SCADA;ARA Przedsiębiorstwo Automatyki Przemysłowej Sp. z o.o.;automation;7000.0;12000.0;PLN;Elbląg;9500.0;0;0;0;0
+Programista Python_4;RPA Developer;Mindbox S.A.;automation;23100.0;33600.0;PLN;Warszawa;28350.0;0;0;0;0
+Programista Python_4;Inżynier Automatyk / Programista PLC;Talent Partners;automation;13000.0;15000.0;PLN;Gliwice;14000.0;0;0;0;0
+Programista Python_4;Senior Linux Embedded Developer;Minimax Viking R&D;embedded;22000.0;26000.0;PLN;Kraków;24000.0;1;0;0;0
+Programista Python_4;Computer Vision Algorithm Developer (AI);Unit Group;artificial-intelligence;23784.0;31712.0;PLN;Zdalnie;27748.0;0;0;0;0
+Programista Python_4;Backend Developer (Elixir);in4ge sp. z o.o.;game-dev;16000.0;22000.0;PLN;Zdalnie;19000.0;0;0;0;0
+Programista Python_4;Remote Odoo developer;Fortizar Kft.;fullstack;7568.0;11353.0;PLN;Zdalnie;9460.5;0;0;0;0
+Programista Python_4;Data Developer Analytics;bonprix.;business-intelligence;15200.0;19800.0;PLN;Łódź;17500.0;0;0;0;0
+Programista Python_4;API Integrations / Backend Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;backend;5000.0;8000.0;PLN;Kraków;6500.0;0;0;0;0
+Programista Python_4;(Beyond a) Senior React Developer;u2i;frontend;22000.0;27000.0;PLN;Kraków;24500.0;1;0;0;0
+Programista Python_4;Junior RTB Integration Engineer/Java Developer;RTB House;backend;16000.0;21000.0;PLN;Zdalnie;18500.0;0;0;0;1
+Programista Python_4;Linux Developer;Hitachi Energy;sys-administrator;15000.0;20000.0;PLN;Kraków;17500.0;0;0;0;0
+Programista Python_4;Cloud Application Developer;Sigma IT Poland;architecture;21840.0;26880.0;PLN;Zdalnie;24360.0;0;0;0;0
+Programista Python_4;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;artificial-intelligence;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_4;.Net Developer;Hitachi Energy;backend;15000.0;18000.0;PLN;Zdalnie;16500.0;0;0;0;0
+Programista Python_4;Junior Database SQL Developer;DataFuze;data;8400.0;12000.0;PLN;Warszawa;10200.0;0;0;0;1
+Programista Python_4;C++ Developer - flight simulator;Flytronic S.A.;embedded;20000.0;30000.0;PLN;Gliwice;25000.0;0;0;0;0
+Programista Python_4;Programista C/Linux (systemy wbudowane);Transbit Sp. z o.o.;embedded;12000.0;17000.0;PLN;Warszawa;14500.0;0;0;0;0
+Programista Python_4;Remote Senior Embedded Developer;Conclusive Engineering Sp. z o.o.;embedded;20000.0;30000.0;PLN;Zdalnie;25000.0;1;0;0;0
+Programista Python_4;Node.js Developer;AVENGA;fullstack;21840.0;25200.0;PLN;Zdalnie;23520.0;0;0;0;0
+Programista Python_4;Mulesoft Developer (part-time);Finitec;backend;18480.0;23520.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_4;Embedded Software Developer;AIUT;embedded;10200.0;14400.0;PLN;Gliwice;12300.0;0;0;0;0
+Programista Python_4;Remote Frontend Developer;SQ3 Partners;frontend;13874.0;19820.0;PLN;Zdalnie;16847.0;0;0;0;0
+Programista Python_4;Remote Senior Frontend Developer;SQ3 Partners;frontend;19820.0;25766.0;PLN;Zdalnie;22793.0;1;0;0;0
+Programista Python_4;Fullstack Developer;AVENGA;fullstack;20160.0;21840.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_4;IoT Senior Software Developer (C#/.Net);Hitachi Energy;testing;16000.0;19000.0;PLN;Kraków;17500.0;1;0;0;0
+Programista Python_4;R/Python Developer;Centrum Informatyki Statystycznej;backend;8000.0;14000.0;PLN;Warszawa;11000.0;0;0;0;0
+Programista Python_4;Lead Robotics Developer;SoftServe;robotics;19000.0;28000.0;PLN;Zdalnie;23500.0;0;1;0;0
+Programista Python_4;Programista systemu drona podwodnego;Diveye;robotics;10080.0;20160.0;PLN;Zdalnie;15120.0;0;0;0;0
+Programista Python_4;AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;artificial-intelligence;12000.0;16000.0;PLN;Zdalnie;14000.0;0;0;0;0
+Programista Python_4;Senior AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;artificial-intelligence;16000.0;19000.0;PLN;Zdalnie;17500.0;1;0;0;0
+Programista Python_4;Remote Full-stack JavaScript Developer;ALGOTEQUE;fullstack;16000.0;25600.0;PLN;Zdalnie;20800.0;0;0;0;0
+Programista Python_4;Game Developer (Elixir / Unity);in4ge sp. z o.o.;game-dev;16000.0;24000.0;PLN;Zdalnie;20000.0;0;0;0;0
+Programista Python_4;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;backend;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_4;Senior C++ Backened Developer;ESET;backend;18000.0;21000.0;PLN;Kraków;19500.0;1;0;0;0
+Programista Python_4;Junior Embedded Software Developer;AIUT;embedded;6250.0;9900.0;PLN;Gliwice;8075.0;0;0;0;1
+Programista Python_4;Junior Backend Developer;Storkjet Sp. z o.o.;backend;6700.0;9600.0;PLN;Katowice;8150.0;0;0;0;1
+Programista Python_4;Cloud DevOps Engineer;emagine Sp. Z o.o.;devops;23520.0;26880.0;PLN;Zdalnie;25200.0;0;0;0;0
+Programista Python_4;Remote Senior Frontend Developer;SQ3 Partners;Frontend;19820.0;25766.0;PLN;Zdalnie;22793.0;1;0;0;0
+Programista Python_4;Fullstack Developer;AVENGA;Fullstack;20160.0;21840.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_4;IoT Senior Software Developer (C#/.Net);Hitachi Energy;Testing;16000.0;19000.0;PLN;Kraków;17500.0;1;0;0;0
+Programista Python_4;R/Python Developer;Centrum Informatyki Statystycznej;Backend;8000.0;14000.0;PLN;Warszawa;11000.0;0;0;0;0
+Programista Python_4;Lead Robotics Developer;SoftServe;Robotyka;19000.0;28000.0;PLN;Zdalnie;23500.0;0;1;0;0
+Programista Python_4;Programista systemu drona podwodnego;Diveye;Robotyka;10080.0;20160.0;PLN;Zdalnie;15120.0;0;0;0;0
+Programista Python_4;AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;AI;12000.0;16000.0;PLN;Zdalnie;14000.0;0;0;0;0
+Programista Python_4;Senior AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;AI;16000.0;19000.0;PLN;Zdalnie;17500.0;1;0;0;0
+Programista Python_4;Remote Full-stack JavaScript Developer;ALGOTEQUE;Fullstack;16000.0;25600.0;PLN;Zdalnie;20800.0;0;0;0;0
+Programista Python_4;Game Developer (Elixir / Unity);in4ge sp. z o.o.;Game dev;16000.0;24000.0;PLN;Zdalnie;20000.0;0;0;0;0
+Programista Python_4;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;Backend;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_4;Senior C++ Backened Developer;ESET;Backend;18000.0;21000.0;PLN;Kraków;19500.0;1;0;0;0
+Programista Python_4;Junior Embedded Software Developer;AIUT;Embedded;6250.0;9900.0;PLN;Gliwice;8075.0;0;0;0;1
+Programista Python_4;Junior Backend Developer;Storkjet Sp. z o.o.;Backend;6700.0;9600.0;PLN;Katowice;8150.0;0;0;0;1
+Programista Python_4;Cloud DevOps Engineer;emagine Sp. Z o.o.;DevOps;23520.0;26880.0;PLN;Zdalnie;25200.0;0;0;0;0
+Programista Python_5;Senior Backend Developer (Python);CTHINGS.CO;backend;22000.0;27000.0;PLN;Warsaw;24500.0;1;0;0;0
+Programista Python_5;Senior Backend Developer (Python);Fintastic;backend;27748.0;35676.0;PLN;Zdalnie;31712.0;1;0;0;0
+Programista Python_5;Python Developer Tech Lead / Architect;cyber_Folks S.A.;backend;19500.0;24500.0;PLN;Kraków;22000.0;0;1;0;0
+Programista Python_5;Backend Python Developer;xBerry;backend;20160.0;25200.0;PLN;Zdalnie;22680.0;0;0;0;0
+Programista Python_5;Medior FullStack (Python) Developer;NIX Tech Kft.;fullstack;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_5;Senior Python Developer;Lingaro;backend;21000.0;26880.0;PLN;Zdalnie;23940.0;1;0;0;0
+Programista Python_5;Backend / Python Developer (Junior);Parleto;backend;5000.0;10000.0;PLN;Gdańsk;7500.0;0;0;0;1
+Programista Python_5;Senior Backend Developer;Focal Systems;backend;37000.0;70000.0;PLN;Zdalnie;53500.0;1;0;0;0
+Programista Python_5;Senior Python Developer;Avenga;backend;27720.0;29400.0;PLN;Zdalnie;28560.0;1;0;0;0
+Programista Python_5;Full Stack Python Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;fullstack;11000.0;15000.0;PLN;Kraków;13000.0;0;0;0;0
+Programista Python_5;Remote Backend Python Django Developer;HRobots;backend;10000.0;11400.0;PLN;Zdalnie;10700.0;0;0;0;0
+Programista Python_5;Remote Python Developer;SQ3 Partners;backend;17838.0;20613.0;PLN;Zdalnie;19225.5;0;0;0;0
+Programista Python_5;Python Developer;Margo Consulting Polska;backend;15000.0;20000.0;PLN;Zdalnie;17500.0;0;0;0;0
+Programista Python_5;Python Developer;Respect Energy S.A.;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;0;0;0;0
+Programista Python_5;Remote Python Senior developer;Meant4 Software;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;1;0;0;0
+Programista Python_5;Python Backend Developer;ALM Services Technology Group;backend;16000.0;28000.0;PLN;Zdalnie;22000.0;0;0;0;0
+Programista Python_5;Mid (Python) Backend Developer (AI/Web3 startup);Codepole;backend;15000.0;25000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_5;Mid Backend Developer (Python);Quantee;backend;18000.0;22000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_5;Senior Backend Developer (Python);Quantee;backend;25000.0;30000.0;PLN;Zdalnie;27500.0;1;0;0;0
+Programista Python_5;Junior Python Developer (Backend);Elmark Automatyka S.A.;backend;7000.0;10000.0;PLN;Warszawa;8500.0;0;0;0;1
+Programista Python_5;BigData Developer;AVENGA;data;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+Programista Python_5;Data Developer;Unit Group;data;21802.0;29730.0;PLN;Zdalnie;25766.0;0;0;0;0
+Programista Python_5;Python Developer - AI;Zone IT Sp. z o.o.;artificial-intelligence;17000.0;28000.0;PLN;Wrocław;22500.0;0;0;0;0
+Programista Python_5;Big Data Developer;emagine Sp. Z o.o.;data;18480.0;23520.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_5;3D Rigging Artist / Technical Developer;Codete;game-dev;26880.0;31080.0;PLN;Zdalnie;28980.0;0;0;0;0
+Programista Python_5;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+Programista Python_5;Software Developer C++ / Linux / Buildroot;Recruit Europe Sp.zo.o.;embedded;28000.0;41000.0;PLN;Munich;34500.0;0;0;0;0
+Programista Python_5;Programista DWH;apreel Sp. z o.o.;data;23520.0;30240.0;PLN;Zdalnie;26880.0;0;0;0;0
+Programista Python_5;Power Platform Developer;Avanade Poland;business-analyst;13440.0;26880.0;PLN;Zdalnie;20160.0;0;0;0;0
+Programista Python_5;Developer Patterns;Mindbox S.A.;devops;27300.0;32550.0;PLN;Zdalnie;29925.0;0;0;0;0
+Programista Python_5;C++ Embedded Developer;Link Group;embedded;16800.0;25200.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_5;Fullstack Python/React Developer;Grape Up;fullstack;16000.0;22100.0;PLN;Zdalnie;19050.0;0;0;0;0
+Programista Python_5;Fullstack Developer;Link Group;fullstack;22000.0;26000.0;PLN;Warszawa;24000.0;0;0;0;0
+Programista Python_5;Frontend Developer (Mid / Regular);Sunscrapers;frontend;15000.0;22000.0;PLN;Zdalnie;18500.0;0;0;1;0
+Programista Python_5;C++ Developer - TGMT;Siemens Mobility Kft.;backend;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_5;Senior C#/.NET Developer;First Derivative;backend;28560.0;36960.0;PLN;Łódź;32760.0;1;0;0;0
+Programista Python_5;Remote Java Team Lead Developer;Coforge;fullstack;31920.0;35280.0;PLN;Zdalnie;33600.0;0;1;0;0
+Programista Python_5;Programista PLC/SCADA;ARA Przedsiębiorstwo Automatyki Przemysłowej Sp. z o.o.;automation;7000.0;12000.0;PLN;Elbląg;9500.0;0;0;0;0
+Programista Python_5;RPA Developer;Mindbox S.A.;automation;23100.0;33600.0;PLN;Warszawa;28350.0;0;0;0;0
+Programista Python_5;Inżynier Automatyk / Programista PLC;Talent Partners;automation;13000.0;15000.0;PLN;Gliwice;14000.0;0;0;0;0
+Programista Python_5;Senior Linux Embedded Developer;Minimax Viking R&D;embedded;22000.0;26000.0;PLN;Kraków;24000.0;1;0;0;0
+Programista Python_5;Computer Vision Algorithm Developer (AI);Unit Group;artificial-intelligence;23784.0;31712.0;PLN;Zdalnie;27748.0;0;0;0;0
+Programista Python_5;Backend Developer (Elixir);in4ge sp. z o.o.;game-dev;16000.0;22000.0;PLN;Zdalnie;19000.0;0;0;0;0
+Programista Python_5;Remote Odoo developer;Fortizar Kft.;fullstack;7568.0;11353.0;PLN;Zdalnie;9460.5;0;0;0;0
+Programista Python_5;Data Developer Analytics;bonprix.;business-intelligence;15200.0;19800.0;PLN;Łódź;17500.0;0;0;0;0
+Programista Python_5;API Integrations / Backend Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;backend;5000.0;8000.0;PLN;Kraków;6500.0;0;0;0;0
+Programista Python_5;(Beyond a) Senior React Developer;u2i;frontend;22000.0;27000.0;PLN;Kraków;24500.0;1;0;0;0
+Programista Python_5;Junior RTB Integration Engineer/Java Developer;RTB House;backend;16000.0;21000.0;PLN;Zdalnie;18500.0;0;0;0;1
+Programista Python_5;Linux Developer;Hitachi Energy;sys-administrator;15000.0;20000.0;PLN;Kraków;17500.0;0;0;0;0
+Programista Python_5;Cloud Application Developer;Sigma IT Poland;architecture;21840.0;26880.0;PLN;Zdalnie;24360.0;0;0;0;0
+Programista Python_5;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;artificial-intelligence;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_5;.Net Developer;Hitachi Energy;backend;15000.0;18000.0;PLN;Zdalnie;16500.0;0;0;0;0
+Programista Python_5;Junior Database SQL Developer;DataFuze;data;8400.0;12000.0;PLN;Warszawa;10200.0;0;0;0;1
+Programista Python_5;C++ Developer - flight simulator;Flytronic S.A.;embedded;20000.0;30000.0;PLN;Gliwice;25000.0;0;0;0;0
+Programista Python_5;Programista C/Linux (systemy wbudowane);Transbit Sp. z o.o.;embedded;12000.0;17000.0;PLN;Warszawa;14500.0;0;0;0;0
+Programista Python_5;Remote Senior Embedded Developer;Conclusive Engineering Sp. z o.o.;embedded;20000.0;30000.0;PLN;Zdalnie;25000.0;1;0;0;0
+Programista Python_5;Node.js Developer;AVENGA;fullstack;21840.0;25200.0;PLN;Zdalnie;23520.0;0;0;0;0
+Programista Python_5;Mulesoft Developer (part-time);Finitec;backend;18480.0;23520.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_5;Embedded Software Developer;AIUT;embedded;10200.0;14400.0;PLN;Gliwice;12300.0;0;0;0;0
+Programista Python_5;Remote Frontend Developer;SQ3 Partners;frontend;13874.0;19820.0;PLN;Zdalnie;16847.0;0;0;0;0
+Programista Python_5;Remote Senior Frontend Developer;SQ3 Partners;frontend;19820.0;25766.0;PLN;Zdalnie;22793.0;1;0;0;0
+Programista Python_5;Fullstack Developer;AVENGA;fullstack;20160.0;21840.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_5;IoT Senior Software Developer (C#/.Net);Hitachi Energy;testing;16000.0;19000.0;PLN;Kraków;17500.0;1;0;0;0
+Programista Python_5;R/Python Developer;Centrum Informatyki Statystycznej;backend;8000.0;14000.0;PLN;Warszawa;11000.0;0;0;0;0
+Programista Python_5;Lead Robotics Developer;SoftServe;robotics;19000.0;28000.0;PLN;Zdalnie;23500.0;0;1;0;0
+Programista Python_5;Programista systemu drona podwodnego;Diveye;robotics;10080.0;20160.0;PLN;Zdalnie;15120.0;0;0;0;0
+Programista Python_5;AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;artificial-intelligence;12000.0;16000.0;PLN;Zdalnie;14000.0;0;0;0;0
+Programista Python_5;Senior AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;artificial-intelligence;16000.0;19000.0;PLN;Zdalnie;17500.0;1;0;0;0
+Programista Python_5;Remote Full-stack JavaScript Developer;ALGOTEQUE;fullstack;16000.0;25600.0;PLN;Zdalnie;20800.0;0;0;0;0
+Programista Python_5;Game Developer (Elixir / Unity);in4ge sp. z o.o.;game-dev;16000.0;24000.0;PLN;Zdalnie;20000.0;0;0;0;0
+Programista Python_5;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;backend;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_5;Senior C++ Backened Developer;ESET;backend;18000.0;21000.0;PLN;Kraków;19500.0;1;0;0;0
+Programista Python_5;Junior Embedded Software Developer;AIUT;embedded;6250.0;9900.0;PLN;Gliwice;8075.0;0;0;0;1
+Programista Python_5;Junior Backend Developer;Storkjet Sp. z o.o.;backend;6700.0;9600.0;PLN;Katowice;8150.0;0;0;0;1
+Programista Python_5;Cloud DevOps Engineer;emagine Sp. Z o.o.;devops;23520.0;26880.0;PLN;Zdalnie;25200.0;0;0;0;0
+Programista Python_6;Senior Backend Developer (Python);CTHINGS.CO;backend;22000.0;27000.0;PLN;Warsaw;24500.0;1;0;0;0
+Programista Python_6;Senior Backend Developer (Python);Fintastic;backend;27748.0;35676.0;PLN;Zdalnie;31712.0;1;0;0;0
+Programista Python_6;Python Developer Tech Lead / Architect;cyber_Folks S.A.;backend;19500.0;24500.0;PLN;Kraków;22000.0;0;1;0;0
+Programista Python_6;Backend Python Developer;xBerry;backend;20160.0;25200.0;PLN;Zdalnie;22680.0;0;0;0;0
+Programista Python_6;Medior FullStack (Python) Developer;NIX Tech Kft.;fullstack;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_6;Senior Python Developer;Lingaro;backend;21000.0;26880.0;PLN;Zdalnie;23940.0;1;0;0;0
+Programista Python_6;Backend / Python Developer (Junior);Parleto;backend;5000.0;10000.0;PLN;Gdańsk;7500.0;0;0;0;1
+Programista Python_6;Senior Backend Developer;Focal Systems;backend;37000.0;70000.0;PLN;Zdalnie;53500.0;1;0;0;0
+Programista Python_6;Senior Python Developer;Avenga;backend;27720.0;29400.0;PLN;Zdalnie;28560.0;1;0;0;0
+Programista Python_6;Full Stack Python Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;fullstack;11000.0;15000.0;PLN;Kraków;13000.0;0;0;0;0
+Programista Python_6;Remote Backend Python Django Developer;HRobots;backend;10000.0;11400.0;PLN;Zdalnie;10700.0;0;0;0;0
+Programista Python_6;Remote Python Developer;SQ3 Partners;backend;17838.0;20613.0;PLN;Zdalnie;19225.5;0;0;0;0
+Programista Python_6;Python Developer;Margo Consulting Polska;backend;15000.0;20000.0;PLN;Zdalnie;17500.0;0;0;0;0
+Programista Python_6;Python Developer;Respect Energy S.A.;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;0;0;0;0
+Programista Python_6;Remote Python Senior developer;Meant4 Software;backend;18000.0;25000.0;PLN;Zdalnie;21500.0;1;0;0;0
+Programista Python_6;Python Backend Developer;ALM Services Technology Group;backend;16000.0;28000.0;PLN;Zdalnie;22000.0;0;0;0;0
+Programista Python_6;Mid (Python) Backend Developer (AI/Web3 startup);Codepole;backend;15000.0;25000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_6;Mid Backend Developer (Python);Quantee;backend;18000.0;22000.0;PLN;Zdalnie;20000.0;0;0;1;0
+Programista Python_6;Senior Backend Developer (Python);Quantee;backend;25000.0;30000.0;PLN;Zdalnie;27500.0;1;0;0;0
+Programista Python_6;Junior Python Developer (Backend);Elmark Automatyka S.A.;backend;7000.0;10000.0;PLN;Warszawa;8500.0;0;0;0;1
+Programista Python_6;BigData Developer;AVENGA;data;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+Programista Python_6;Data Developer;Unit Group;data;21802.0;29730.0;PLN;Zdalnie;25766.0;0;0;0;0
+Programista Python_6;Python Developer - AI;Zone IT Sp. z o.o.;artificial-intelligence;17000.0;28000.0;PLN;Wrocław;22500.0;0;0;0;0
+Programista Python_6;Big Data Developer;emagine Sp. Z o.o.;data;18480.0;23520.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_6;3D Rigging Artist / Technical Developer;Codete;game-dev;26880.0;31080.0;PLN;Zdalnie;28980.0;0;0;0;0
+Programista Python_6;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+Programista Python_6;Software Developer C++ / Linux / Buildroot;Recruit Europe Sp.zo.o.;embedded;28000.0;41000.0;PLN;Munich;34500.0;0;0;0;0
+Programista Python_6;Programista DWH;apreel Sp. z o.o.;data;23520.0;30240.0;PLN;Zdalnie;26880.0;0;0;0;0
+Programista Python_6;Power Platform Developer;Avanade Poland;business-analyst;13440.0;26880.0;PLN;Zdalnie;20160.0;0;0;0;0
+Programista Python_6;Developer Patterns;Mindbox S.A.;devops;27300.0;32550.0;PLN;Zdalnie;29925.0;0;0;0;0
+Programista Python_6;C++ Embedded Developer;Link Group;embedded;16800.0;25200.0;PLN;Warsaw;21000.0;0;0;0;0
+Programista Python_6;Fullstack Python/React Developer;Grape Up;fullstack;16000.0;22100.0;PLN;Zdalnie;19050.0;0;0;0;0
+Programista Python_6;Fullstack Developer;Link Group;fullstack;22000.0;26000.0;PLN;Warszawa;24000.0;0;0;0;0
+Programista Python_6;Frontend Developer (Mid / Regular);Sunscrapers;frontend;15000.0;22000.0;PLN;Zdalnie;18500.0;0;0;1;0
+Programista Python_6;C++ Developer - TGMT;Siemens Mobility Kft.;backend;9010.0;13515.0;PLN;Budapest;11262.5;0;0;0;0
+Programista Python_6;Senior C#/.NET Developer;First Derivative;backend;28560.0;36960.0;PLN;Łódź;32760.0;1;0;0;0
+Programista Python_6;Remote Java Team Lead Developer;Coforge;fullstack;31920.0;35280.0;PLN;Zdalnie;33600.0;0;1;0;0
+Programista Python_6;Programista PLC/SCADA;ARA Przedsiębiorstwo Automatyki Przemysłowej Sp. z o.o.;automation;7000.0;12000.0;PLN;Elbląg;9500.0;0;0;0;0
+Programista Python_6;RPA Developer;Mindbox S.A.;automation;23100.0;33600.0;PLN;Warszawa;28350.0;0;0;0;0
+Programista Python_6;Inżynier Automatyk / Programista PLC;Talent Partners;automation;13000.0;15000.0;PLN;Gliwice;14000.0;0;0;0;0
+Programista Python_6;Senior Linux Embedded Developer;Minimax Viking R&D;embedded;22000.0;26000.0;PLN;Kraków;24000.0;1;0;0;0
+Programista Python_6;Computer Vision Algorithm Developer (AI);Unit Group;artificial-intelligence;23784.0;31712.0;PLN;Zdalnie;27748.0;0;0;0;0
+Programista Python_6;Backend Developer (Elixir);in4ge sp. z o.o.;game-dev;16000.0;22000.0;PLN;Zdalnie;19000.0;0;0;0;0
+Programista Python_6;Remote Odoo developer;Fortizar Kft.;fullstack;7568.0;11353.0;PLN;Zdalnie;9460.5;0;0;0;0
+Programista Python_6;Data Developer Analytics;bonprix.;business-intelligence;15200.0;19800.0;PLN;Łódź;17500.0;0;0;0;0
+Programista Python_6;API Integrations / Backend Developer;Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie;backend;5000.0;8000.0;PLN;Kraków;6500.0;0;0;0;0
+Programista Python_6;(Beyond a) Senior React Developer;u2i;frontend;22000.0;27000.0;PLN;Kraków;24500.0;1;0;0;0
+Programista Python_6;Junior RTB Integration Engineer/Java Developer;RTB House;backend;16000.0;21000.0;PLN;Zdalnie;18500.0;0;0;0;1
+Programista Python_6;Linux Developer;Hitachi Energy;sys-administrator;15000.0;20000.0;PLN;Kraków;17500.0;0;0;0;0
+Programista Python_6;Cloud Application Developer;Sigma IT Poland;architecture;21840.0;26880.0;PLN;Zdalnie;24360.0;0;0;0;0
+Programista Python_6;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;artificial-intelligence;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_6;.Net Developer;Hitachi Energy;backend;15000.0;18000.0;PLN;Zdalnie;16500.0;0;0;0;0
+Programista Python_6;Junior Database SQL Developer;DataFuze;data;8400.0;12000.0;PLN;Warszawa;10200.0;0;0;0;1
+Programista Python_6;C++ Developer - flight simulator;Flytronic S.A.;embedded;20000.0;30000.0;PLN;Gliwice;25000.0;0;0;0;0
+Programista Python_6;Programista C/Linux (systemy wbudowane);Transbit Sp. z o.o.;embedded;12000.0;17000.0;PLN;Warszawa;14500.0;0;0;0;0
+Programista Python_6;Remote Senior Embedded Developer;Conclusive Engineering Sp. z o.o.;embedded;20000.0;30000.0;PLN;Zdalnie;25000.0;1;0;0;0
+Programista Python_6;Node.js Developer;AVENGA;fullstack;21840.0;25200.0;PLN;Zdalnie;23520.0;0;0;0;0
+Programista Python_6;Mulesoft Developer (part-time);Finitec;backend;18480.0;23520.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_6;Embedded Software Developer;AIUT;embedded;10200.0;14400.0;PLN;Gliwice;12300.0;0;0;0;0
+Programista Python_6;Remote Frontend Developer;SQ3 Partners;frontend;13874.0;19820.0;PLN;Zdalnie;16847.0;0;0;0;0
+Programista Python_6;Remote Senior Frontend Developer;SQ3 Partners;frontend;19820.0;25766.0;PLN;Zdalnie;22793.0;1;0;0;0
+Programista Python_6;Fullstack Developer;AVENGA;fullstack;20160.0;21840.0;PLN;Zdalnie;21000.0;0;0;0;0
+Programista Python_6;IoT Senior Software Developer (C#/.Net);Hitachi Energy;testing;16000.0;19000.0;PLN;Kraków;17500.0;1;0;0;0
+Programista Python_6;R/Python Developer;Centrum Informatyki Statystycznej;backend;8000.0;14000.0;PLN;Warszawa;11000.0;0;0;0;0
+Programista Python_6;Lead Robotics Developer;SoftServe;robotics;19000.0;28000.0;PLN;Zdalnie;23500.0;0;1;0;0
+Programista Python_6;Programista systemu drona podwodnego;Diveye;robotics;10080.0;20160.0;PLN;Zdalnie;15120.0;0;0;0;0
+Programista Python_6;AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;artificial-intelligence;12000.0;16000.0;PLN;Zdalnie;14000.0;0;0;0;0
+Programista Python_6;Senior AI & Math CUDA (C++) Developer;Camino Science sp. z o.o.;artificial-intelligence;16000.0;19000.0;PLN;Zdalnie;17500.0;1;0;0;0
+Programista Python_6;Remote Full-stack JavaScript Developer;ALGOTEQUE;fullstack;16000.0;25600.0;PLN;Zdalnie;20800.0;0;0;0;0
+Programista Python_6;Game Developer (Elixir / Unity);in4ge sp. z o.o.;game-dev;16000.0;24000.0;PLN;Zdalnie;20000.0;0;0;0;0
+Programista Python_6;Machine Learning Developer;Daily Dose of Beauty sp. z o.o.;backend;17000.0;20000.0;PLN;Zdalnie;18500.0;0;0;0;0
+Programista Python_6;Senior C++ Backened Developer;ESET;backend;18000.0;21000.0;PLN;Kraków;19500.0;1;0;0;0
+Programista Python_6;Junior Embedded Software Developer;AIUT;embedded;6250.0;9900.0;PLN;Gliwice;8075.0;0;0;0;1
+Programista Python_6;Junior Backend Developer;Storkjet Sp. z o.o.;backend;6700.0;9600.0;PLN;Katowice;8150.0;0;0;0;1
+Programista Python_6;Cloud DevOps Engineer;emagine Sp. Z o.o.;devops;23520.0;26880.0;PLN;Zdalnie;25200.0;0;0;0;0
+react native_1;Remote React Fullstack Developer;ITISIT sp z o.o.;Fullstack;13440.0;25200.0;PLN;Zdalnie;19320.0;0;0;0;0
+react native_1;Senior Frontend Developer;Air Space Intelligence;Frontend;;;PLN;Gdańsk;;1;0;0;0
+react native_1;Mid React Native Developer (Relocation to Prague);AllSTARSIT;AI;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+react native_1;React Native Developer - Remote/Wrocław;Sofomo;Mobile;20000.0;23000.0;PLN;Zdalnie;21500.0;0;0;0;0
+react native_1;Senior React Native Developer;Branchspace sp. z o.o.;Mobile;18000.0;26000.0;PLN;Kraków;22000.0;1;0;0;0
+react native_1;React Native Developer;Connectis_;Mobile;25000.0;30000.0;PLN;Warszawa;27500.0;0;0;0;0
+react native_1;React Native Developer;Le Polish Bureau;Frontend;14000.0;20000.0;PLN;Zdalnie;17000.0;0;0;0;0
+react native_1;Junior React Native Developer;NIX Tech Kft.;Mobile;5068.0;9573.0;PLN;Budapest;7320.5;0;0;0;1
+react native_1;React Developer Gaming Solutions;Zone IT Sp. z o.o.;Game dev;12000.0;20000.0;PLN;Wrocław;16000.0;0;0;0;0
+react native_1;React Native;Lethe.co;Mobile;13000.0;20000.0;PLN;Zdalnie;16500.0;0;0;0;0
+react native_1;Senior React Native Developer Remote;Superdevs;Mobile;25200.0;30240.0;PLN;Zdalnie;27720.0;1;0;0;0
+react native_1;Senior Fullstack React Native/PHP Developer;Developers Shore;Fullstack;19978.0;26638.0;PLN;Zdalnie;23308.0;1;0;0;0
+react native_1;React Native Engineer (+Node);Daytrip;Mobile;31732.0;45331.0;PLN;Zdalnie;38531.5;0;0;0;0
+react native_1;React Native SDK Team Lead (NL or remote in EU);Stream;Mobile;25184.0;43173.0;PLN;Zdalnie;34178.5;0;1;0;0
+react native_1;Programista / Programistka Aplikacji  Mobilnych;NMG Innovative Technologies;Mobile;7500.0;15000.0;PLN;Toruń;11250.0;0;0;0;0
+react native_1;Mid PHP Developer (100% REMOTE);Innovation Software;Backend;10000.0;15000.0;PLN;Zdalnie;12500.0;0;0;1;0
+react native_1;Software Engineer Intern (Frontend/Backend/DevOps);Air Space Intelligence;Backend;;;PLN;Gdańsk;;0;0;0;0
+react native_1;Fullstack Developer(Python+React);Avenga;Fullstack;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+react native_1;Senior Mobile Engineer;ALLSTARSIT;Mobile;27748.0;31712.0;PLN;Warsaw;29730.0;1;0;0;0
+react native_1;Senior Software Engineer (Mobile App iOS Android);Adtran Networks Sp. zo. o.;Mobile;17000.0;22000.0;PLN;Zdalnie;19500.0;1;0;0;0
+react native_2;Remote React Fullstack Developer;ITISIT sp z o.o.;fullstack;13440.0;25200.0;PLN;Zdalnie;19320.0;0;0;0;0
+react native_2;Senior Frontend Developer;Air Space Intelligence;frontend;;;PLN;Gdańsk;;1;0;0;0
+react native_2;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+react native_2;React Native Developer - Remote/Wrocław;Sofomo;mobile;20000.0;23000.0;PLN;Zdalnie;21500.0;0;0;0;0
+react native_2;Senior React Native Developer;Branchspace sp. z o.o.;mobile;18000.0;26000.0;PLN;Kraków;22000.0;1;0;0;0
+react native_2;React Native Developer;Connectis_;mobile;25000.0;30000.0;PLN;Warszawa;27500.0;0;0;0;0
+react native_2;React Native Developer;Le Polish Bureau;frontend;14000.0;20000.0;PLN;Zdalnie;17000.0;0;0;0;0
+react native_2;Junior React Native Developer;NIX Tech Kft.;mobile;5068.0;9573.0;PLN;Budapest;7320.5;0;0;0;1
+react native_2;React Developer Gaming Solutions;Zone IT Sp. z o.o.;game-dev;12000.0;20000.0;PLN;Wrocław;16000.0;0;0;0;0
+react native_2;React Native;Lethe.co;mobile;13000.0;20000.0;PLN;Zdalnie;16500.0;0;0;0;0
+react native_2;Senior React Native Developer Remote;Superdevs;mobile;25200.0;30240.0;PLN;Zdalnie;27720.0;1;0;0;0
+react native_2;Senior Fullstack React Native/PHP Developer;Developers Shore;fullstack;19978.0;26638.0;PLN;Zdalnie;23308.0;1;0;0;0
+react native_2;React Native Engineer (+Node);Daytrip;mobile;31732.0;45331.0;PLN;Zdalnie;38531.5;0;0;0;0
+react native_2;React Native SDK Team Lead (NL or remote in EU);Stream;mobile;25184.0;43173.0;PLN;Zdalnie;34178.5;0;1;0;0
+react native_2;Programista / Programistka Aplikacji  Mobilnych;NMG Innovative Technologies;mobile;7500.0;15000.0;PLN;Toruń;11250.0;0;0;0;0
+react native_2;Mid PHP Developer (100% REMOTE);Innovation Software;backend;10000.0;15000.0;PLN;Zdalnie;12500.0;0;0;1;0
+react native_2;Software Engineer Intern (Frontend/Backend/DevOps);Air Space Intelligence;backend;;;PLN;Gdańsk;;0;0;0;0
+react native_2;Fullstack Developer(Python+React);Avenga;fullstack;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+react native_2;Senior Mobile Engineer;ALLSTARSIT;mobile;27748.0;31712.0;PLN;Warsaw;29730.0;1;0;0;0
+react native_2;Senior Software Engineer (Mobile App iOS Android);Adtran Networks Sp. zo. o.;mobile;17000.0;22000.0;PLN;Zdalnie;19500.0;1;0;0;0
+react native_2;Junior Software Engineer (Mobile App iOS Android);Adtran Networks Sp. zo. o.;mobile;11000.0;14000.0;PLN;Zdalnie;12500.0;0;0;0;1
+react native_2;Software Architect;NOVOMATIC Technologies Poland;architecture;24000.0;35000.0;PLN;Zabierzów;29500.0;0;0;0;0
+react native_2;Senior Fullstack JavaScript developer;Digital Thinkers Kft.;fullstack;10136.0;16894.0;PLN;Budapest;13515.0;1;0;0;0
+react native_2;Senior/Lead iOS Developer (with German);Spyrosoft;mobile;25200.0;33600.0;PLN;Zdalnie;29400.0;1;1;0;0
+react native_2;Cloud Software Engineer;ESET;devops;13000.0;16000.0;PLN;Kraków;14500.0;0;0;0;0
+react native_2;Junior PHP Developer (100% REMOTE);Innovation Software;backend;7000.0;9000.0;PLN;Zdalnie;8000.0;0;0;0;1
+react native_2;Junior Software Engineer (Mobile App iOS Android);Adtran Networks Sp. zo. o.;Mobile;11000.0;14000.0;PLN;Zdalnie;12500.0;0;0;0;1
+react native_2;Software Architect;NOVOMATIC Technologies Poland;Architecture;24000.0;35000.0;PLN;Zabierzów;29500.0;0;0;0;0
+react native_2;Senior Fullstack JavaScript developer;Digital Thinkers Kft.;Fullstack;10136.0;16894.0;PLN;Budapest;13515.0;1;0;0;0
+react native_2;Senior/Lead iOS Developer (with German);Spyrosoft;Mobile;25200.0;33600.0;PLN;Zdalnie;29400.0;1;1;0;0
+react native_2;Cloud Software Engineer;ESET;DevOps;13000.0;16000.0;PLN;Kraków;14500.0;0;0;0;0
+react native_2;Junior PHP Developer (100% REMOTE);Innovation Software;Backend;7000.0;9000.0;PLN;Zdalnie;8000.0;0;0;0;1
+react native_3;Remote React Fullstack Developer;ITISIT sp z o.o.;fullstack;13440.0;25200.0;PLN;Zdalnie;19320.0;0;0;0;0
+react native_3;Senior Frontend Developer;Air Space Intelligence;frontend;;;PLN;Gdańsk;;1;0;0;0
+react native_3;Mid React Native Developer (Relocation to Prague);AllSTARSIT;artificial-intelligence;21586.0;24176.0;PLN;Prague;22881.0;0;0;1;0
+react native_3;React Native Developer - Remote/Wrocław;Sofomo;mobile;20000.0;23000.0;PLN;Zdalnie;21500.0;0;0;0;0
+react native_3;Senior React Native Developer;Branchspace sp. z o.o.;mobile;18000.0;26000.0;PLN;Kraków;22000.0;1;0;0;0
+react native_3;React Native Developer;Connectis_;mobile;25000.0;30000.0;PLN;Warszawa;27500.0;0;0;0;0
+react native_3;React Native Developer;Le Polish Bureau;frontend;14000.0;20000.0;PLN;Zdalnie;17000.0;0;0;0;0
+react native_3;Junior React Native Developer;NIX Tech Kft.;mobile;5068.0;9573.0;PLN;Budapest;7320.5;0;0;0;1
+react native_3;React Developer Gaming Solutions;Zone IT Sp. z o.o.;game-dev;12000.0;20000.0;PLN;Wrocław;16000.0;0;0;0;0
+react native_3;React Native;Lethe.co;mobile;13000.0;20000.0;PLN;Zdalnie;16500.0;0;0;0;0
+react native_3;Senior React Native Developer Remote;Superdevs;mobile;25200.0;30240.0;PLN;Zdalnie;27720.0;1;0;0;0
+react native_3;Senior Fullstack React Native/PHP Developer;Developers Shore;fullstack;19978.0;26638.0;PLN;Zdalnie;23308.0;1;0;0;0
+react native_3;React Native Engineer (+Node);Daytrip;mobile;31732.0;45331.0;PLN;Zdalnie;38531.5;0;0;0;0
+react native_3;React Native SDK Team Lead (NL or remote in EU);Stream;mobile;25184.0;43173.0;PLN;Zdalnie;34178.5;0;1;0;0
+react native_3;Programista / Programistka Aplikacji  Mobilnych;NMG Innovative Technologies;mobile;7500.0;15000.0;PLN;Toruń;11250.0;0;0;0;0
+react native_3;Mid PHP Developer (100% REMOTE);Innovation Software;backend;10000.0;15000.0;PLN;Zdalnie;12500.0;0;0;1;0
+react native_3;Software Engineer Intern (Frontend/Backend/DevOps);Air Space Intelligence;backend;;;PLN;Gdańsk;;0;0;0;0
+react native_3;Fullstack Developer(Python+React);Avenga;fullstack;20160.0;23520.0;PLN;Zdalnie;21840.0;0;0;0;0
+react native_3;Senior Mobile Engineer;ALLSTARSIT;mobile;27748.0;31712.0;PLN;Warsaw;29730.0;1;0;0;0
+react native_3;Senior Software Engineer (Mobile App iOS Android);Adtran Networks Sp. zo. o.;mobile;17000.0;22000.0;PLN;Zdalnie;19500.0;1;0;0;0
+react native_3;Junior Software Engineer (Mobile App iOS Android);Adtran Networks Sp. zo. o.;mobile;11000.0;14000.0;PLN;Zdalnie;12500.0;0;0;0;1
+react native_3;Software Architect;NOVOMATIC Technologies Poland;architecture;24000.0;35000.0;PLN;Zabierzów;29500.0;0;0;0;0
+react native_3;Senior Fullstack JavaScript developer;Digital Thinkers Kft.;fullstack;10136.0;16894.0;PLN;Budapest;13515.0;1;0;0;0
+react native_3;Senior/Lead iOS Developer (with German);Spyrosoft;mobile;25200.0;33600.0;PLN;Zdalnie;29400.0;1;1;0;0
+react native_3;Cloud Software Engineer;ESET;devops;13000.0;16000.0;PLN;Kraków;14500.0;0;0;0;0
+react native_3;Junior PHP Developer (100% REMOTE);Innovation Software;backend;7000.0;9000.0;PLN;Zdalnie;8000.0;0;0;0;1
