@@ -21,5 +21,6 @@ Przykładowy wynik dla haseł "Programista Python", "React Native" i "Data Engin
 - selenium & chromedrive
 - html
 - csv & excel
+- jupyter notebook
 
 
